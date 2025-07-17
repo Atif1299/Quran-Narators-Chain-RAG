@@ -1,0 +1,9 @@
+fastapi
+pydantic
+langchain
+langchain-openai
+langchain-google-genai
+qdrant-client
+python-dotenv
+numpy
+streamlit
