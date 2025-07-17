@@ -7,3 +7,48 @@ qdrant-client
 python-dotenv
 numpy
 streamlit
+
+camel-tools
+spacy
+pdfplumber
+transformers
+openai
+arabert
+pandas
+numpy
+scikit-learn
+fastapi
+uvicorn
+# Optional: For spaCy Arabic model installation
+# spacy[ar] 
+streamlit 
+
+# LangChain Core
+langchain
+langchain_core
+langchain-core
+
+# OpenAI Integration
+langchain-openai
+openai
+openai
+
+# Anthropic Integration
+langchain-anthropic
+anthropic
+
+# Google Gemini (PaLM) Integration
+langchain-google-genai
+google-generativeai
+
+# Hugging Face Integration
+langchain-huggingface
+transformers
+huggingface-hub
+
+# Environment Variable Management
+python-dotenv
+
+# Machine Learning Utilities
+numpy
+scikit-learn
